@@ -3902,7 +3902,7 @@ input[type=radio]:focus+label:after {
 @font-face {
     font-family: 'FontAwesome';
     src: url(../../../../plugins/ninja-forms/assets/fonts/fontawesome-webfont.eot);
-    src: url(https://pinjamankerajaan2u.com/wp-content/plugins/ninja-forms/assets/css/../fonts/fontawesome-webfont.eot) format('embedded-opentype'), url(https://pinjamankerajaan2u.com/wp-content/plugins/ninja-forms/assets/css/../fonts/fontawesome-webfont.woff2#1752211291) format('woff2'), url(https://pinjamankerajaan2u.com/wp-content/plugins/ninja-forms/assets/css/../fonts/fontawesome-webfont.woff#1752211291) format('woff'), url(https://pinjamankerajaan2u.com/wp-content/plugins/ninja-forms/assets/css/../fonts/fontawesome-webfont.ttf#1752211291) format('truetype'), url(https://pinjamankerajaan2u.com/wp-content/plugins/ninja-forms/assets/css/../fonts/fontawesome-webfont.svg?v=4.5.0#fontawesomeregular) format('svg');
+
     font-weight: normal;
     font-style: normal
 }
